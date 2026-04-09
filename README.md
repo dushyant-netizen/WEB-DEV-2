@@ -129,6 +129,3 @@ NODE_ENV=development
 - **Responsive Design**: Works seamlessly on mobile and desktop.
 
 
-GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
-
-Made by Hanzla Shahzad ♥️
